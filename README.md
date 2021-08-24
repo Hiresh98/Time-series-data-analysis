@@ -1,1 +1,1 @@
-# Time-series-data-analysis
+# ARIMA-And-Seasonal-ARIMA
